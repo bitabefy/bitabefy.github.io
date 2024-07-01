@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://bitabefy.github.io/sitemap
+Sitemap: https://bitabefy.github.io/app/sitemap
+Sitemap: https://bitabefy.github.io/assets/sitemap
+Sitemap: https://bitabefy.github.io/css/sitemap
+Sitemap: https://bitabefy.github.io/includes/sitemap
+Sitemap: https://bitabefy.github.io/item/sitemap
+Sitemap: https://bitabefy.github.io/src/sitemap
